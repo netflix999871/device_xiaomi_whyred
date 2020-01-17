@@ -1430,8 +1430,8 @@ vendor/etc/init/vendor.qti.hardware.tui_comm@1.0-service-qti.rc|2cfc563d7e157937
 vendor/lib/vendor.qti.hardware.tui_comm@1.0.so|f34f921b3e2a889cada5f9588009aae11af46a96
 vendor/lib64/vendor.qti.hardware.tui_comm@1.0.so|e47baed52f1c0637de34fa55e45a86b4b412a672
 
-# Wifi - from jasmine_sprout 9 PKQ1.180904.001 V10.0.17.0.PDIMIXM release-keys
-vendor/bin/cnss-daemon|01ce2fa8f4852305bea2af33f59e41e7f05f44ad
+# Wifi - from jasmine-user 10 QKQ1.190910.002 V11.0.4.0.QDIMIXM release-keys
+vendor/bin/cnss-daemon|a371213adc8fc7677d519c8d942761ffeee0f345
 
 # Wfd (system) - from mata - QP1A.190711.148
 bin/wfdservice|6ce4bf76af16cfd1a4bcd47c0231ed13f4e7a291
