@@ -1383,17 +1383,17 @@ vendor/lib64/vendor.qti.imsrtpservice@1.0.so|7ba73cb608b8279094912ee7f6c47b90ec4
 vendor/lib64/vendor.qti.ims.callinfo@1.0.so|640c602d1d18f6c07ee5a731256c4d054f2817bd
 vendor/lib64/vendor.qti.ims.rcsconfig@1.0.so|c551369158590ce5bd19c5c7817a3e29be82889c
 
-# Sensors - from jasmine_sprout 9 PKQ1.180904.001 V10.0.17.0.PDIMIXM release-keys
-vendor/bin/sensors.qti|b30ad4fdc8ecab0f7e3b9ede664dbecf204241b7
-vendor/etc/sensors/sensor_def_qcomdev.conf|33214fd4ac19fc6ba500017095b205251573abea
-vendor/lib/hw/activity_recognition.sdm660.so|9d7160dc8661957de705ce6b79942c41614ff7c8
-vendor/lib/libsensor_reg.so|af6296fe9495b370300634c008c02d356ce38092
-vendor/lib/libsensor1.so|a34ac1e81a8eb93efe434829d74809a5aa307d3c
-vendor/lib/sensors.ssc.so|0080d2b919f8465c090d7052d0f7d9a92c30a6e5
-vendor/lib64/hw/activity_recognition.sdm660.so|5579e6b9dd041e4d70148247036b97cac15832cd
-vendor/lib64/libsensor_reg.so|fc339a65dafb44a629e6d83c13e8af71c293c53b
-vendor/lib64/libsensor1.so|322bd23852df0a0d6bfebf854e76f0181aa5ca7b
-vendor/lib64/sensors.ssc.so|0e98582e5ca6c9960474945acdef427083b13177
+# Sensors - from jasmine-user 10 QKQ1.190910.002 V11.0.4.0.QDIMIXM release-keys
+vendor/bin/sensors.qti|1613aa4572fbc6040e57c7ed0932529ea0247f49
+vendor/etc/sensors/sensor_def_qcomdev.conf|2dde9725dd1be5cd864183e8a617c3455a7f6a17
+vendor/lib/hw/activity_recognition.sdm660.so|016875ad5a1363a8ec017b286e2fa5372e05e279
+vendor/lib/libsensor_reg.so|ac3a6b735084d308e6f2a07f514339c27c65b11f
+vendor/lib/libsensor1.so|daca84391e79453c601b135619f4db6eebd4f7cf
+vendor/lib/sensors.ssc.so|69970f125d076dac8711c1d1687f7faeb7a75bed
+vendor/lib64/hw/activity_recognition.sdm660.so|9550e75529ef4ac6205c27784eaf54219110023f
+vendor/lib64/libsensor_reg.so|a8753d3f0e9383d46334f0022166eece70854e5c
+vendor/lib64/libsensor1.so|596362883f49d2e911c8cc2d54f90b2b56d35b18
+vendor/lib64/sensors.ssc.so|0ec630386e5f51dfe77acd0fc7886f01dcfc2c86
 
 # Soter
 -app/SoterService/SoterService.apk
